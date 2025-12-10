@@ -62,5 +62,5 @@ Sou um **Engenheiro de Software** com background em Engenharia Elétrica e vasta
 
 Se você busca performance técnica alinhada à estratégia de negócio:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamuelleite/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](LINK_DO_SEU_CANAL)
